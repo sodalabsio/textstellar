@@ -1,2 +1,2 @@
 # text2skill
-Capability and skill mapper using contextual text  embeddings.
+Capability and skill mapping using contextual text embeddings.
