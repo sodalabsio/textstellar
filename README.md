@@ -24,4 +24,4 @@ On a high level, the `Textstellar` pipeline broadly consists of three modules:
 
 Most importantly, explore the low-dimensional semantic space—at your leisure.
 
-Click [here](https://textstellar.com/climate_change) for a live demo.
+Click [here](https://textstellar.com) for a live demo.
