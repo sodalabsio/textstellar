@@ -19,7 +19,7 @@ On a high level, the `Textstellar` pipeline broadly consists of three modules:
 
 ## Setup 
 1. Clone this repo and get started with `textstellar.ipynb` notebook to use on your own dataset
-2. Preferably run on a GPU (faster; recommended: Google Colab)
+2. Preferably run on a GPU (recommended to use Google Colab)
 3. Replace all system path(s) as needed
 
 Most importantly, explore the low-dimensional semantic space—at your leisure.
