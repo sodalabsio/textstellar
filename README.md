@@ -1,5 +1,7 @@
 # Textstellar 🌌
 
+![preview](/assets/preview.png)
+
 Capability and skill mapping using transformer-based/contextual text embeddings.
 
 ## Overview
